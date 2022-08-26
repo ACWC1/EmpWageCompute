@@ -1,0 +1,10 @@
+package com.EmpWage;
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("WelCome to Employee Wage Computation Program"); 
+	}
+
+}
